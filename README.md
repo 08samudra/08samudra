@@ -1,6 +1,6 @@
 # Hi there, I'm Yoga Samudra! 👋
 
-## 🔒 About Me
+## 👨‍💻 About Me
 
 I am an **Informatics Engineering graduate** specializing in **Cybersecurity**, with a balanced expertise in both **Offensive (Red Team)** and **Defensive (Blue Team)** security environments. 
 
@@ -12,6 +12,7 @@ I am an **Informatics Engineering graduate** specializing in **Cybersecurity**, 
 ## 🏆 Achievements
 
 - 🥇 **Top 20 Rank Defensive** – Hacktrace Ranges CTF
+
   <img src="rank_hacktrace.png" alt="Hacktrace Top 20 Defensive" width="600px"/>
 
 ---
