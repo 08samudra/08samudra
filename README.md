@@ -7,10 +7,10 @@
 
 ## 👨‍💻 About Me
 
-I am an **Informatics Engineering graduate** specializing in **Cybersecurity**, with a comprehensive foundation in both **Offensive (Red Team)** and **Defensive (Blue Team)** security operations. I pathways my focus toward bridging the gap between identifying critical vulnerabilities and architecting robust digital defenses.
+I am an **Informatics Engineering** graduate specializing in **Cybersecurity**, with hands-on experience in both **Offensive (Red Team)** and **Defensive (Blue Team)** security operations. I focus on integrating critical vulnerability identification with the design of reliable digital defenses.
 
-- 🔴 **Offensive Security:** Experienced in vulnerability assessments and web/mobile penetration testing to discover, document, and remediate potential flaws before exploitation.
-- 🔵 **Defensive Security:** Skilled in enterprise security monitoring, network traffic/PCAP analysis, threat hunting, and log forensic investigation to maintain infrastructure integrity.
+- 🔴 **Offensive Security:** Experienced in vulnerability assessments and web penetration testing to discover, document, and remediate potential flaws before exploitation.
+- 🔵 **Defensive Security:** Skilled in security monitoring, network traffic/PCAP analysis, threat hunting, and log forensic investigation to maintain infrastructure integrity.
 
 ---
 
@@ -30,15 +30,15 @@ I am an **Informatics Engineering graduate** specializing in **Cybersecurity**, 
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
-![SQLmap](https://img.shields.io/badge/SQLmap-006400?style=for-the-badge&logo=python&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-006400?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ### 🛡️ Threat Hunting, DFIR & SIEM
 ![Wazuh](https://img.shields.io/badge/Wazuh%20SIEM-00A699?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata%20IDS-EF3B2C?style=for-the-badge&logo=suricata&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Hayabusa](https://img.shields.io/badge/Hayabusa-4B0082?style=for-the-badge&logo=rust&logoColor=white)
+![Hayabusa](https://img.shields.io/badge/Hayabusa-4B0082?style=for-the-badge&logo=speedtest&logoColor=white)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-3949AB?style=for-the-badge&logo=virustotal&logoColor=white)
-![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-FF4500?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-FF4500?style=for-the-badge&logo=target&logoColor=white)
 
 ### ⚙️ Infrastructure & Development
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,3 +55,10 @@ I am an **Informatics Engineering graduate** specializing in **Cybersecurity**, 
 🔵 DEFENSIVE : Security Monitoring | Log Forensics (Sysmon/Windows Event Logs) | PCAP Analysis
 🌐 NETWORKING: TCP/IP Architecture | Network Security | IDS/IPS Rules Deployment
 🦠 MALWARE   : Malware Triage & Analysis | Threat Intelligence Gathering
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=08samudra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
