@@ -16,7 +16,7 @@ I am an **Informatics Engineering** graduate specializing in **Cybersecurity**, 
 
 ## 🏆 Achievements
 
-- 🥇 **Top 20 Ranked (Defensive)** – Hacktrace Ranges CTF
+- 🥇 **Ranked 7th (Defensive)** – Hacktrace Ranges CTF
 
 <img src="rank_hacktrace.png" alt="Hacktrace Top 20 Defensive" width="600px"/>
 
